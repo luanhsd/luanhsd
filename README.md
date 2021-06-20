@@ -19,4 +19,4 @@ Undergraduated in Systems Analysis and Development from the Federal Institute of
 </div>
 
 
-![Snake animation](https://github.com/rafaballerini/luanhsd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luanhsd/luanhsd/blob/output/github-contribution-grid-snake.svg)
