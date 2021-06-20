@@ -11,3 +11,12 @@
 🎓 Academic Education ...
 
 Undergraduated in Systems Analysis and Development from the Federal Institute of Education, Science and Technology of São Paulo - Campus Caraguatatuba and graduated in Software Engineering from the Institute of Management and Information Technology.
+
+<div>
+  <a href="https://github.com/luanhsd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanhsd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanhsd&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
+![Snake animation](https://github.com/rafaballerini/luanhsd/blob/output/github-contribution-grid-snake.svg)
